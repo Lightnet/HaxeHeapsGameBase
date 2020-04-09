@@ -1,0 +1,9 @@
+-cp src
+-lib castle
+-lib heaps
+-lib deepnightLibs
+
+#-lib hldx
+-cpp cppOut
+
+-main Boot
